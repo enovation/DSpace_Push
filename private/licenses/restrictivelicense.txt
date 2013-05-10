@@ -1,0 +1,12 @@
+================================================================================
+
+NDLR Restricted Access Licence
+
+================================================================================
+
+To continue, you must agree with the terms of the restricted access licence.
+
+<a href="${dspace.url}/licence/NDLRRestrictedAccessLicence1.pdf">Click here to view the licence</a>
+
+================================================================================
+
